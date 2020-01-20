@@ -6,20 +6,18 @@
 ### **Personal Data**
 Date of birth: 03/29/1992 - 27 years<br/>
 Relantionship Status: Single<br/>
-Address: 110 José Antônio de Borba Street, Joinville,Santa Catarina<br/>
+Address: 110 José Antônio de Borba Street, Joinville,SC<br/>
 Cellphone: +55 47 99111-3517<br/>
 E-mail: alexandre.dalabona@gmail.com<br/>
 Github: [AlexandreWeber](https://github.com/AlexandreWeber "AlexandreWeber")
 
 
 ### **Education**
-**Católica de Santa Catarina, Joinville/SC— Postgraduate**
-
+**Católica de Santa Catarina, Joinville/SC— Postgraduate**<br/>
 2014 to 2015
 Software Engineer.
 
-**Associação Catarinense de Ensino, Joinville/SC— Bachelor**
-
+**Associação Catarinense de Ensino, Joinville/SC— Bachelor**<br/>
 2010 to 2013
 Information Systems Bachelor.
 
@@ -45,3 +43,8 @@ Scrum<br/>
 CleanCode<br/>
 Ionic<br/>
 Mobile<br/>
+
+### **Current Projects**
+**Translation of Angular Style Guide**<br/>
+The main goal of this project is translate the angular style guide from original doc in english to portuguese.<br/>
+https://github.com/AlexandreWeber/angular.io-styleguide-PT-BR
