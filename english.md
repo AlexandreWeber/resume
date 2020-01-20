@@ -1,1 +1,47 @@
-### 
+![profile](https://avatars3.githubusercontent.com/u/9654982?s=400&u=4b05a403856348a3187d4943453784c2a98416e7&v=4 "profile")
+
+## Alexandre Weber Dalabona
+##### Bachelor in Information systems and postgraduate in Software engineer. Experienced in modern web development and ERP systems with advanced knowledge in TOTVS Datasul. 
+
+### **Personal Data**
+Date of birth: 03/29/1992 - 27 years<br/>
+Relantionship Status: Single<br/>
+Address: 110 José Antônio de Borba Street, Joinville,Santa Catarina<br/>
+Cellphone: +55 47 99111-3517<br/>
+E-mail: alexandre.dalabona@gmail.com<br/>
+Github: [AlexandreWeber](https://github.com/AlexandreWeber "AlexandreWeber")
+
+
+### **Education**
+**Católica de Santa Catarina, Joinville/SC— Postgraduate**
+
+2014 to 2015
+Software Engineer.
+
+**Associação Catarinense de Ensino, Joinville/SC— Bachelor**
+
+2010 to 2013
+Information Systems Bachelor.
+
+### **Work Experiences**
+**TOTVS, Joinville/SC — Software Developer**
+
+Since 2011, march to current
+Development of new features and maintenance of products like CRM and Sales Order in languages/frameworks like Java, JavaScript, Progress, AngularJS and Angular.
+Development of  apps with Ionic Framework.
+Code review and help to others developers as a mentor.
+
+### **Languages**
+English  (Full Professional)
+EFSET Quick English Check - Score: Advanced / Proficient (CEFR C1/C2) 
+
+### **Skills**
+JavaScript <br/>
+Progress 4GL <br/>
+AngularJS and Angular<br/>
+ERP<br/>
+Agile Software<br/>
+Scrum<br/>
+CleanCode<br/>
+Ionic<br/>
+Mobile<br/>
