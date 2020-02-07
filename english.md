@@ -14,9 +14,9 @@ Github: [AlexandreWeber](https://github.com/AlexandreWeber "AlexandreWeber")
 
 ### **Education**
 
-**Pontifícia Universidade Católica de Minas Gerais**
-2020 - Currently
-Web Full Stack Development
+**Pontifícia Universidade Católica de Minas Gerais**<br/>
+2020 to current
+Web Full Stack Development.
 
 **Católica de Santa Catarina, Joinville/SC— Postgraduate**<br/>
 2014 to 2015
