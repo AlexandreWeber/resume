@@ -13,6 +13,11 @@ Github: [AlexandreWeber](https://github.com/AlexandreWeber "AlexandreWeber")
 
 
 ### **Education**
+
+**Pontifícia Universidade Católica de Minas Gerais**
+2020 - Currently
+Web Full Stack Development
+
 **Católica de Santa Catarina, Joinville/SC— Postgraduate**<br/>
 2014 to 2015
 Software Engineer.
